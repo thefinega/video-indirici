@@ -1,0 +1,24 @@
+Üçüncü Taraf Bileşenler
+=======================
+
+Bu portable paket aşağıdaki üçüncü taraf araçları içerir:
+
+1. yt-dlp
+   - Web sitesi: https://github.com/yt-dlp/yt-dlp
+   - Bu paketteki sürüm: yt-dlp.exe
+   - yt-dlp projesi Unlicense lisansı altındadır.
+   - Windows executable paketleri ek bileşenler nedeniyle GPLv3+ kapsamı içerebilir.
+
+2. FFmpeg
+   - Web sitesi: https://ffmpeg.org/
+   - Bu paketteki sürüm: ffmpeg.exe
+   - Kullanılan build çıktısında GPL ve version3 desteği aktiftir.
+   - FFmpeg lisansı kullanılan build seçeneklerine göre değişebilir.
+
+3. Deno
+   - Web sitesi: https://deno.com/
+   - Bu paketteki sürüm: deno.exe
+   - Deno MIT lisansı altında yayımlanır.
+
+Bu dosya hukuki tavsiye değildir. Paketi herkese açık şekilde dağıtmadan önce
+ilgili projelerin güncel lisans ve dağıtım şartlarını kontrol edin.

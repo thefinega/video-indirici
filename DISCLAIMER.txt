@@ -1,0 +1,11 @@
+Sorumluluk Reddi
+================
+
+Video İndirici; yt-dlp, ffmpeg ve deno araçlarını kullanarak çalışan
+basit bir Windows arayüzüdür. YouTube veya başka bir platformla resmi bağı yoktur.
+
+Bu araç yalnızca indirme hakkınız olan içerikler için kullanılmalıdır.
+Telif hakları, platform kullanım şartları ve yerel yasal sorumluluklar kullanıcıya aittir.
+
+Uygulama hesap bilgisi, şifre veya çerez saklamaz. Firefox çerez seçeneği
+aktif edilirse çerez okuma işlemi yt-dlp tarafından yerel bilgisayarda yapılır.

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+dist/
+release/
+indirilenler/
+self-test-output/
+indirilenler.txt
+*.log
+*.zip
+*.exe
+dizi link.txt
+video_indir.py
