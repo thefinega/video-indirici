@@ -339,7 +339,7 @@ class DownloadWorker(threading.Thread):
 class VideoDownloaderApp:
     def __init__(self, root: tk.Tk):
         self.root = root
-        self.root.title(f"{APP_NAME} {APP_VERSION}")
+        self.root.title(f"{APP_NAME} {APP_VERSION} | @thefinega")
         self.root.geometry("840x660")
         self.root.minsize(760, 600)
 
